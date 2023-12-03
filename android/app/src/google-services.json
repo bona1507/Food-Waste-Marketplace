@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804664454580",
+    "project_id": "troli-ikan-kecil",
+    "storage_bucket": "troli-ikan-kecil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804664454580:android:f09646d350d509319796e1",
+        "android_client_info": {
+          "package_name": "com.troli.troli_gsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804664454580-0luhbr04c91kbi36608eb4vm4bseu95h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4k3lmmLJkRpd7IqmITXccR0T2ezRHq6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804664454580-0luhbr04c91kbi36608eb4vm4bseu95h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
